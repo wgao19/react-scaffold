@@ -38,3 +38,6 @@ fi
 if [ ! -e "src/" ]; then
   mkdir src
 fi
+
+
+# adjust git remote origin, etc
