@@ -39,5 +39,7 @@ if [ ! -e "src/" ]; then
   mkdir src
 fi
 
+# misc
+npm rebuild node-sass
 
 # adjust git remote origin, etc
